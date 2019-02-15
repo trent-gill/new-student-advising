@@ -17,11 +17,9 @@ I created this resource so advisors can work from a shared understanding of advi
 
 General Advisors for Bachelors programs in Arts, Science, Physical Education Studies, Fine Arts, and Environmental Science:
 
-Alex Braun (brauna@brandonu.ca)
-
-Laurie Shewchuk (shewchuk@brandonu.ca)
-
-Trent Gill (gillt@brandonu.ca)
+* Alex Braun 
+* Laurie Shewchuk 
+* Trent Gill 
 
 ### What is Academic Advising?
 
