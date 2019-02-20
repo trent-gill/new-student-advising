@@ -23,6 +23,8 @@ The purpose of the academic advising syllabus is to inform students of the learn
 
 I created this resource so advisors can work from a shared understanding of advising in Student Services. It was created in consultation with Alex Braun and Laurie Schewchuk.
 
+! Also available as a [PDF](https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf), if fancy, printable documents are your thing.
+
 ### Advisors
 
 **Office:** Student Services (McKenzie Building 102-105)
@@ -126,6 +128,8 @@ Your first year is an important transition period as a new university student. A
 To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
 
 ! This guide is meant to be read in conjunction with the New Student Advising course on Moodle. The first-year advising manual is also available as an [e-book](http://trentgill.ca/bu-advising-course/).
+
+! Also available as a [PDF](https://www.brandonu.ca/course-registration/files/New-Student-Advising-First-Year-at-a-Glance-1.pdf), if fancy, printable documents are your thing.
 
 ### Choosing Courses
 
