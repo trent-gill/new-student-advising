@@ -3,7 +3,9 @@ layout: default
 permalink: /
 ---
 
-# Academic Advising Projects, by Trent Gill
+# Academic Advising Projects
+
+**By Trent Gill**
 
 ## About
 
