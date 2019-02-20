@@ -1,4 +1,4 @@
-# Guides to Majors at BU
+# Guide to Majors at BU
 
 ## About
 
@@ -10,6 +10,8 @@ Information about programs has been adapted from the [BU Academic Calendar](http
 
 ### Anthropology
 
+**Website**: https://www.brandonu.ca/anthropology/
+
 **About**
 
 The Anthropology program at Brandon University encompasses three of the discipline’s four traditional major sub-fields: socio-cultural
@@ -19,6 +21,13 @@ area, to introduce the student to the whole field of anthropology. This emphasiz
 All students pursuing a major, minor or honours degree in Anthropology are required to complete 12:153 Introduction to Socio-cultural
 Anthropology and 12:173 Introduction to Archaeology and Biological Anthropology. Students should consult the Anthropology Degree Planner
 for more information and to determine which program best suits their interests and career goals. It is available through the Anthropology departmental webpage https://www.brandonu.ca/anthropology/.
+
+**Program Options**
+
+* 4-year Major (Honours)
+* 4-year Major
+* 3-year Major
+* Minor
 
 **Program Outcomes**
 
