@@ -104,3 +104,19 @@ Before an advising appointment, you should:
 * consider what other commitments might be involved in your academic day (work, family, etc.)
 * be prepared to discuss course options, address academic problems or concerns, make decisions about the upcoming semester, and explore major/minor options
 arrive on time for your advising appointment.
+
+## First Year at a Glance
+
+### Choosing Courses
+
+### What You Need
+
+### Tips for Planning Your First Year
+
+### Courseload and Labs
+
+### Schedule
+
+### Academic Preparation
+
+### Academic Advising
