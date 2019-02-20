@@ -3,6 +3,15 @@ layout: default
 permalink: /
 ---
 
+# Academic Advising Projects, by Trent Gill
+
+## About
+
+Advisor: [Trent Gill](http://trentgill.ca/) at [Brandon University](http://brandonu.ca/)
+Work Website: https://www.brandonu.ca/academic-advising/
+
+This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with in my capacity. Use the left menu   
+
 ## Advising Syllabus
 
 The purpose of the academic advising syllabus is to inform students of the learning outcomes, expectations, and process of working with an academic advisor at Brandon University.
@@ -107,16 +116,67 @@ arrive on time for your advising appointment.
 
 ## First Year at a Glance
 
+Your first year is an important transition period as a new university student. As advisors, we want you to set realistic goals, understand decision-making, and take responsibility for your choices. Your engagement in the advising process is crucial for your success. Use this guide to plan your first year at BU!
+
+To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
+
+! This guide is meant to be read in conjunction with the New Student Advising course on Moodle. The first-year advising manual is also available as an [e-book](http://trentgill.ca/bu-advising-course/).
+
 ### Choosing Courses
+
+Choosing courses is different in university than high school. In high school, you probably had limited choice and less flexibility with what subjects you studied. Now, it’s up to you to decide what courses you want to take and how they fit together in your academic plan.
+
+What is an academic plan? Once you set goals for your post-secondary education, whether it’s being qualified for a career or obtaining an advanced degree, an academic plan is an explicit strategy for fulfilling that vision.
+
+In your first year, however, it’s important to not get too carried away with what your plan is five years from now.
+
+After all, you may not yet have a detailed plan of what you want to major or minor in, or what specific career you want to pursue once you complete a degree. You may not even know what subject area or field interests you the most. You may change your mind several times before landing on the right path for you.
+
+That’s okay! Your first year is an opportunity to explore what you’re interested in and become more familiar with how each subject is studied at the university level.
+
+Before making a decision that will impact your future, it’s important to be informed. Having a clear purpose for pursuing a degree plays an important role in your success as a student and the likelihood that you’ll fulfill your goals.
 
 ### What You Need
 
+1. [Academic Calendar](http://brandonu.ca/calendar)
+2. [Registration Guide(s)](http://brandonu.ca/registration)
+3. Limited Availability List
+4. Slot Schedule
+
+* Use the Academic Calendar to identify courses that are required for a potential major and minor. The Academic Calendar will also have descriptions for courses in each department.
+* Use the current Registration Guide to see what courses are available in the upcoming semesters.
+* Use the Limited Availability List to see if there is still space available in the courses that interest you.
+* Use the Slot Schedule to ensure that you don’t have any conflicts between lecture times, lab times, and other obligations (work, family, extracurriculars, etc.).
+
 ### Tips for Planning Your First Year
+
+* Take courses that interest you. Do your research by reading course descriptions and browsing department webpages on the Brandon University website.
+* Take courses in subject areas that may lead to a major or minor. Each major and minor will have courses at the 100 level that are required.
+* If your planned major has “ancillary courses” (or “corequisites”), consider taking one or more of them.
+* Take upgrading courses that fulfill prerequisites for courses you want to take eventually.
+* Take courses that fulfill a requirement for admission to another post-secondary program, if that is in your plan.
+* Take elective courses in the Humanities, Social Sciences, and Natural Sciences that also fulfill Brandon University’s Liberal Education Requirements.
+* Take courses in subject areas that you enjoyed in high school and want to explore at a deeper level.
 
 ### Courseload and Labs
 
+How many courses are you comfortable with taking in your first year? The maximum number of courses you can take per semester is 5 (15 credit hours). To be eligible for full-time status, the minimum number of courses is 3 (9 credit hours).
+
+Given that information, we normally advise students to take between 3 and 5 courses. There are exceptions. For example, if you are returning to university after a long break from formal education, you may only want one or two. If you are receiving a scholarship, you may need totake 4 or 5 courses. Or, if you are taking courses on a part-time basis while working, one course
+may be all you can handle.
+
+Keep in mind that for each hour of class lecture, you will be expected to do an hour (or more) of work outside of class, including reading, studying, research, and assignments. 
+
 ### Schedule
+
+We understand that students have obligations outside of school. You need to be realistic about when you can attend class. The number one way to ensure your success is to attend all classes, so we advise against registering for courses whose lecture times conflict with other obligations.
 
 ### Academic Preparation
 
+If you are new to university, then you may be concerned about how prepared you are for coursework. 
+
+Although most 100-level courses are meant to be accessible for new students (unless you lack a prerequisite from high school), you may also find yourself in a situation where you have to acquire new skills to succeed in your courses. You may have to attend workshops or seek help with study skills, writing, or research. This workload can add up, so make sure that you stay ahead in your courses by taking good notes in class, doing the readings, and regularly reviewing your materials.
+
 ### Academic Advising
+
+If you’re in doubt about degree and course selection, it’s a good idea to see an academic advisor. Academic advisors work with students to understand program requirements and schedule courses according to individual needs. We advise; you decide!
