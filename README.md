@@ -13,7 +13,9 @@ permalink: /
 
 **Work Website:** https://www.brandonu.ca/academic-advising/
 
-This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with in my capacity. Use the left menu   
+This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with in my capacity. Use the left menu to navigate to to different sections.
+
+**Credit:** This GitHub repository is hosted on Github Pages. The template was forked from the [Advanced JS Syllabus](https://github.com/advanced-js/syllabus) by Aidan Feldman. 
 
 ## Advising Syllabus
 
