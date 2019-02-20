@@ -2,6 +2,8 @@
 
 ## Sample Occupations
 
+Note: This is not an exhaustive list. Some occupations require further education and experience.
+
 * Paleontologist*
 * Archaeologist*
 * Anthropologist*
