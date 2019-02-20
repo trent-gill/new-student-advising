@@ -8,6 +8,7 @@ permalink: /
 ## About
 
 Advisor: [Trent Gill](http://trentgill.ca/) at [Brandon University](http://brandonu.ca/)
+
 Work Website: https://www.brandonu.ca/academic-advising/
 
 This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with in my capacity. Use the left menu   
