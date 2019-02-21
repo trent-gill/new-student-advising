@@ -456,7 +456,9 @@ If you were admitted into one of the following degree programs, please return to
 
 {% include tip.html content="It is important for you to claim your ID so you can login to Moodle, the online registration system, your BU email, and the student information system. Please bring your BU user ID and password to your academic advising appointment." %}
 
-### Step 2: Watch the New Student Advising Videos _(Time to Complete: 2 hours)_
+### Step 2: Watch the New Student Advising Videos 
+
+**Time to Complete: 2 hours**
 
 The information in these videos will teach you the process of choosing courses and using advising resources to plan your academic year. Please take the time to watch all the videos in order to ensure you understand the advising process and are prepared for your advising appointment.
 
