@@ -220,7 +220,7 @@ If you are in one of these degree programs, you must choose one of the following
 * This option will work for you if you are familiar with the BU General Calendar and Registration Guide and therefore understand your degree requirements, how to determine pre-requisites, and can determine the time slots, terms, and final exam dates for your desired courses.  
 * The New Student Advising video series on Moodle will teach you how to advise yourself. 
 
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly.</div>
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"> Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly. </div>
 
 Please select one of the above options to proceed. Students can also review the instructions from both options and choose the one that works best for them. We look forward to hearing from you!
 
