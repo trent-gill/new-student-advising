@@ -126,7 +126,7 @@ Your first year is an important transition period as a new university student. A
 
 To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
 
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">This guide is meant to be read in conjunction with the New Student Advising course on Moodle.</div>
+This guide is meant to be read in conjunction with the New Student Advising course on Moodle.
 
 ### Choosing Courses
 
@@ -186,8 +186,6 @@ Although most 100-level courses are meant to be accessible for new students (unl
 ### Academic Advising
 
 If you’re in doubt about degree and course selection, it’s a good idea to see an academic advisor. Academic advisors work with students to understand program requirements and schedule courses according to individual needs. We advise; you decide!
-
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Also available as a <a href="https://www.brandonu.ca/course-registration/files/New-Student-Advising-First-Year-at-a-Glance-1.pdf">PDF</a>, if fancy, printable documents are your thing.</div>
 
 ## New Student Advising
 
