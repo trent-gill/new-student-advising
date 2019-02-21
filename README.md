@@ -527,7 +527,7 @@ If you made an appointment, you will get a confirmation email from Student Servi
 
 If you submitted your course information through the self-advising form, an advisor at Brandon University will be in contact with you within 3 business days. 
 
-### Step 6: [Register Using the Online Registration System](https://liszt.brandonu.ca/BUOnline/BUStart/Logon.aspx)
+### Step 6: [Register Using the Online Registration System](https://liszt.brandonu.ca/BUOnline/BUStart/Logon.aspx){:target="_blank"}
 
 After your advising appointment, an academic advisor will lift your registration hold. They may walk you through the online registration process at the end of the appointment if there's time. If you have to register on your own, follow the link above in order to register for courses.
 
