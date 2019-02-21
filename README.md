@@ -285,32 +285,26 @@ Please read all of the steps closely before making an appointment with an academ
       <tr>
       <td>Academic Performance and Success1</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-graphics-InDesign/419419/478885-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
       <tr>
       <td>Advising Resources</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Adjusting-fit-graphics/419419/478886-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
       <tr>
       <td>Planning Your Academic Year</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-master-pages-InDesign/419419/478887-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
       <tr>
       <td>Sample Academic Schedules</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-color-swatches-InDesign/419419/478888-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
       <tr>
       <td>The Brandon University Homepage</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-text-documents-InDesign/419419/478889-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
       <tr>
       <td>How to Use the Online Registration System</td>
       <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-styles-Indesign/419419/478890-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
       </tr>
     </tbody>
 </thead>
