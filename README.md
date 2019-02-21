@@ -212,13 +212,13 @@ If you are in one of these degree programs, you must choose one of the following
 
 ### Advising Options
 
-#### **Option 1: [Make an appointment with an academic advisor in Student Services.](/appointment) **
+#### Option 1: [Make an appointment with an academic advisor in Student Services.](/appointment) 
 
 * Students have the option of booking an in-person (1 hour), phone (1.5 hours), or online chat (1.5 hours) appointment. 
 * Students meet directly with advisors in order to discuss their academic goals and walk through the process of planning the academic year. 
 * Students must prepare for appointments by watching videos on basic advising information via Moodle.
 
-#### **Option 2: [Advise yourself and verify your courses with an academic advisor over email.](/self-advising) **
+#### Option 2: [Advise yourself and verify your courses with an academic advisor over email.](/self-advising)
 
 * This option will work for you if you are familiar with the BU General Calendar and Registration Guide and therefore understand your degree requirements, how to determine pre-requisites, and can determine the time slots, terms, and final exam dates for your desired courses.  
 * The New Student Advising video series on Moodle will teach you how to advise yourself. 
