@@ -23,7 +23,7 @@ The purpose of the academic advising syllabus is to inform students of the learn
 
 I created this resource so advisors can work from a shared understanding of advising in Student Services. It was created in consultation with Alex Braun and Laurie Schewchuk.
 
-{% include note.html content="Also available as a [PDF](https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf), if fancy, printable documents are your thing." %}
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> Also available as a <a href="https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf">PDF</a>, if fancy, printable documents are your thing.</div>
 
 ### Advisors
 
