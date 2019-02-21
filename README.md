@@ -401,7 +401,7 @@ At any time, you may also opt to [make an appointment](/advising-projects/#make-
 
 Once you have watched the videos, you will be asked to fill out an advising questionnaire. 
 
-#### 5)	Complete the [Self-Advising Form](https://docs.google.com/forms/d/1ltYtGbu76yyogW6hwKz_Wc-_no274p3Pf_0T3Yj5AeM/edit). _(Time to completion: 1-2 hours.)_
+#### 5)	Complete the [Self-Advising Form](https://docs.google.com/forms/d/1ltYtGbu76yyogW6hwKz_Wc-_no274p3Pf_0T3Yj5AeM/edit){:target="_blank"} _(Time to completion: 1-2 hours.)_
 
 The form linked here is how you will submit your courses to be reviewed by an academic advisor. 
 
