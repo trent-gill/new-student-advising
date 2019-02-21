@@ -23,7 +23,7 @@ The purpose of the academic advising syllabus is to inform students of the learn
 
 I created this resource so advisors can work from a shared understanding of advising in Student Services. It was created in consultation with Alex Braun and Laurie Schewchuk.
 
-{% include note.html content="Also available as a <a href="https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf">PDF</a>, if fancy, printable documents are your thing." %}
+{% include note.html content="Also available as a PDF under Documentation if fancy, printable documents are your thing." %}
 
 ### Advisors
 
@@ -126,7 +126,7 @@ Your first year is an important transition period as a new university student. A
 
 To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
 
-This guide is meant to be read in conjunction with the New Student Advising course on Moodle.
+{% include important.html content="This guide is meant to be read in conjunction with the New Student Advising course on Moodle." %}
 
 ### Choosing Courses
 
@@ -220,7 +220,7 @@ If you are in one of these degree programs, you must choose one of the following
 * This option will work for you if you are familiar with the BU General Calendar and Registration Guide and therefore understand your degree requirements, how to determine pre-requisites, and can determine the time slots, terms, and final exam dates for your desired courses.  
 * The New Student Advising video series on Moodle will teach you how to advise yourself. 
 
-! Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly. 
+{% include tip.html content="Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly." %} 
 
 Please select one of the above options to proceed. Students can also review the instructions from both options and choose the one that works best for them. We look forward to hearing from you!
 
