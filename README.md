@@ -126,7 +126,7 @@ Your first year is an important transition period as a new university student. A
 
 To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
 
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">This guide is meant to be read in conjunction with the New Student Advising course on Moodle. The first-year advising manual is also available as an <a href="http://trentgill.ca/bu-advising-course/">ebook</a>. </div>
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">This guide is meant to be read in conjunction with the New Student Advising course on Moodle.</div>
 
 ### Choosing Courses
 
