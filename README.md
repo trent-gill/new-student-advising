@@ -510,7 +510,6 @@ The information in these videos will teach you the process of choosing courses a
 Please fill out the following form before making an appointment with an advisor.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctx38eqWdrJxQeom1g4jHNhM9zqcERfj3h3KwcV9H0IMQafg/viewform?embedded=true" width="640" height="2166" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 ### Step 4: Make an Appointment or Advise Yourself
 
 To make an appointment, choose one of the following options:
@@ -529,7 +528,7 @@ If you made an appointment, you will get a confirmation email from Student Servi
 
 If you submitted your course information through the self-advising form, an advisor at Brandon University will be in contact with you within 3 business days. 
 
-### Step 6: Register Using the Online Registration System
+### Step 6: [Register Using the Online Registration System](https://liszt.brandonu.ca/BUOnline/BUStart/Logon.aspx)
 
 After your advising appointment, an academic advisor will lift your registration hold. They may walk you through the online registration process at the end of the appointment if there's time. If you have to register on your own, follow the link above in order to register for courses.
 
