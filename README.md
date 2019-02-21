@@ -127,9 +127,9 @@ Your first year is an important transition period as a new university student. A
 
 To ensure a successful transition to university, we encourage you to be both exploratory and goal-oriented in choosing courses.
 
-! This guide is meant to be read in conjunction with the New Student Advising course on Moodle. The first-year advising manual is also available as an [e-book](http://trentgill.ca/bu-advising-course/).
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">This guide is meant to be read in conjunction with the New Student Advising course on Moodle. The first-year advising manual is also available as an <a href="http://trentgill.ca/bu-advising-course/">e-book</a>).</div>
 
-! Also available as a [PDF](https://www.brandonu.ca/course-registration/files/New-Student-Advising-First-Year-at-a-Glance-1.pdf), if fancy, printable documents are your thing.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Also available as a <a href="https://www.brandonu.ca/course-registration/files/New-Student-Advising-First-Year-at-a-Glance-1.pdf">PDF</a>, if fancy, printable documents are your thing.</div>
 
 ### Choosing Courses
 
@@ -223,7 +223,7 @@ If you are in one of these degree programs, you must choose one of the following
 * This option will work for you if you are familiar with the BU General Calendar and Registration Guide and therefore understand your degree requirements, how to determine pre-requisites, and can determine the time slots, terms, and final exam dates for your desired courses.  
 * The New Student Advising video series on Moodle will teach you how to advise yourself. 
 
-! Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Both of the above options require a time commitment of at least 2 hours. Whether you are booking an appointment or advising yourself, please plan your time accordingly.</div>
 
 Please select one of the above options to proceed. Students can also review the instructions from both options and choose the one that works best for them. We look forward to hearing from you!
 
@@ -236,26 +236,26 @@ If you were admitted into one of the following degree programs, please return to
 * Bachelor of Music (Various programs)
 * Bachelor of Education (After-Degree)
 
-! If you were admitted as a Second Degree student, then you will need to contact the chairperson of your department (major) who will determine the courses that are required for your program.  You can find out who the chairperson is by going to the BU homepage at www.brandonu.ca and clicking on the Directory link at the very top right corner.  In the search box, type in your desired major (e.g. Physics), click the search button and then all of the members of that department will be listed, including the chairperson, along with contact information.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">If you were admitted as a Second Degree student, then you will need to contact the chairperson of your department (major) who will determine the courses that are required for your program.  You can find out who the chairperson is by going to the BU homepage at www.brandonu.ca and clicking on the Directory link at the very top right corner.  In the search box, type in your desired major (e.g. Physics), click the search button and then all of the members of that department will be listed, including the chairperson, along with contact information.</div>
 
 ### Make an Appointment
 
 Please read all of the steps closely before making an appointment with an academic advisor. 
 
-! Note: The process described here is for new students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the [Accepted webpage](https://www.brandonu.ca/future-students/accepted/) for program-specific advising instructions.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b>Note:</b> The process described here is for new students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the <a href="https://www.brandonu.ca/future-students/accepted/">Accepted webpage</a> for program-specific advising instructions.</div>
 
 #### **1)	[Claim your Brandon University ID](https://webapp.brandonu.ca/pls/claimid/f?p=120:1).**
 * After clicking the above link, follow the instructions to claim your Brandon University ID. 
 * Write down your Brandon University ID and password for use in Moodle and the online registration system. If you have already done this, proceed to Step 2.
 
-! It is important for you to claim your ID so you can login to Moodle, the online registration system, your BU email, and the student information system. Please bring your BU user ID and password to your academic advising appointment.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">It is important for you to claim your ID so you can login to Moodle, the online registration system, your BU email, and the student information system. Please bring your BU user ID and password to your academic advising appointment.</div>
 
 #### **2) Make a tentative appoinment by choosing one of the following options:**
 
 * Book an in-person appointment with an academic advisor.
 * Book a phone or online chat appointment an academic advisor.
 
-!! After booking an appointment, **students _must_ complete the following steps prior to their appointment date.** The online Moodle course will give students all the information they need to make best use of their time with an academic advisor. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">After booking an appointment, <b>students <i>must</i> complete the following steps prior to their appointment date.</b> The online Moodle course will give students all the information they need to make best use of their time with an academic advisor.</div>
 
 #### **3)	[Login to Moodle](http://moodle.brandonu.ca/) and register for the New Student Advising course using the enrolment key "newbustudent".**
 * Go to Moodle at [http://moodle.brandonu.ca/](http://moodle.brandonu.ca/) (Right-click to open this link in a new window or tab.)
@@ -263,7 +263,7 @@ Please read all of the steps closely before making an appointment with an academ
 * Click on the “New Student Advising” link under “Main Menu" on the left side of the webpage. 
 * The enrolment key is “newbustudent".
 
-! It is important for you to learn how to navigate Moodle as it is used by Brandon University professors and lab instructors to share resources, course content, and grades.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">It is important for you to learn how to navigate Moodle as it is used by Brandon University professors and lab instructors to share resources, course content, and grades.</div>
 
 #### **3)	Watch all 8 videos in the New Student Advising course in Moodle**: _(Time to completion: 2 hours.)_
 
@@ -276,7 +276,7 @@ Please read all of the steps closely before making an appointment with an academ
 * The Brandon University Homepage
 * How to Use the Online Registration System
 
-! These videos provide valuable information that will help you prepare for your advising appointment. Your advisor's job is to support and facilitate the decision-making process, not to make decisions for you. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">These videos provide valuable information that will help you prepare for your advising appointment. Your advisor's job is to support and facilitate the decision-making process, not to make decisions for you.</div>
 
 #### **5) Complete the Advising Questionnaire in the New Student Advising Moodle course.**
 
@@ -288,13 +288,13 @@ Once you have completed the New Student Advising video series and questionnaire 
 
 Please ensure that you bring your Brandon University ID and password to your appointment so your academic advisor can walk you through the registration process.
 
-! Students should be prepared to make decisions regarding choice of potential major(s), minor(s), and courses for the upcoming academic year. If you are exploring different options, that's great! Remember to let your advisor know that you are exploring different options and you would like to take courses from a few different subject areas. We will consult the [Course Registration Guides](https://www.brandonu.ca/registration/), [Current Academic Calendar](https://www.brandonu.ca/calendar/), and [Arts/Science Slot Schedule](https://www.brandonu.ca/registration/files/Arts-Science-Slot-Sheet-revised.pdf) in order to effectively schedule an academic year. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Students should be prepared to make decisions regarding choice of potential major(s), minor(s), and courses for the upcoming academic year. If you are exploring different options, that's great! Remember to let your advisor know that you are exploring different options and you would like to take courses from a few different subject areas. We will consult the <a href="https://www.brandonu.ca/registration/">Course Registration Guides</a>, <a href="https://www.brandonu.ca/calendar/">Current Academic Calendar</a>, and <a href="https://www.brandonu.ca/registration/files/Arts-Science-Slot-Sheet-revised.pdf">Arts/Science Slot Schedule</a> in order to effectively schedule an academic year. </div>
 
 ### Self-Advising (E-mail Check-in with an Advisor)
 
 Welcome! Self-advising is for students who have been admitted to Brandon University and are confident that they can choose courses and plan their academic year with little to no assistance. Since advising has been made mandatory by the University Senate, you must check-in with an academic advisor before registering for courses. 
 
-! Note: The process described here is for students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the [Accepted webpage](https://www.brandonu.ca/future-students/accepted/) for program-specific advising instructions.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"><b>Note:</b> The process described here is for new students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the <a href="https://www.brandonu.ca/future-students/accepted/">Accepted webpage</a> for program-specific advising instructions.</div>
 
 Please be aware that this process is for students who **do not** need support in making decisions regarding their academic program (major, minor, etc.) and courses. Students who need more direct support should [make an appointment](/advising-projects/#make-an-appointment) with an academic advisor.
 
@@ -306,7 +306,7 @@ At any time, you may also opt to [make an appointment](/advising-projects/#make-
 * After clicking the above link, follow the instructions to claim your Brandon University ID. 
 * Write down your Brandon University ID and password for use in Moodle and the online registration system. If you have already done this, proceed to Step 2.
 
-! It is important for you to claim your ID so you can login to Moodle, the online registration system, your BU email, and the student information system. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">It is important for you to claim your ID so you can login to Moodle, the online registration system, your BU email, and the student information system. </div>
 
 #### **2)	[Login to Moodle](http://moodle.brandonu.ca/) and register for the New Student Advising workshop using the enrolment key "newbustudent".**
 * Go to Moodle at [http://moodle.brandonu.ca/](http://moodle.brandonu.ca/) (Right-click to open this link in a new window or tab.)
@@ -314,7 +314,7 @@ At any time, you may also opt to [make an appointment](/advising-projects/#make-
 * Click on the “New Student Advising” link under “Main Menu" on the left side of the webpage. 
 * The enrolment key is “newbustudent".
 
-! It is important for you to learn how to navigate Moodle as it is used by Brandon University professors and lab instructors to share resources, course content, and grades. Student Services also uses Moodle to shared resources related to academic skills.
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">It is important for you to learn how to navigate Moodle as it is used by Brandon University professors and lab instructors to share resources, course content, and grades. Student Services also uses Moodle to shared resources related to academic skills.</div>
 
 #### **3)	Watch all 8 videos in the New Student Advising course in Moodle**: _(Time to completion: 2 hours.)_
 
@@ -327,7 +327,7 @@ At any time, you may also opt to [make an appointment](/advising-projects/#make-
 * The Brandon University Homepage
 * How to Use the Online Registration System
 
-! The information in these videos will teach you the process of choosing courses and using advising resources to plan your academic year. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">The information in these videos will teach you the process of choosing courses and using advising resources to plan your academic year. </div>
 
 #### **4)	Complete the Advising Questionnaire in the New Student Advising Moodle course.**
 
@@ -337,7 +337,7 @@ Once you have watched the videos, you will be asked to fill out an advising ques
 
 The form linked here is how you will submit your courses to be reviewed by an academic advisor. 
 
-! Students must use the [Course Registration Guides](https://www.brandonu.ca/registration/), [Current Academic Calendar](https://www.brandonu.ca/calendar/), and [Arts/Science Slot Schedule](https://www.brandonu.ca/registration/files/Arts-Science-Slot-Sheet-revised.pdf) in order to provide information for this form. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Students must use the <a href="https://www.brandonu.ca/registration/">Course Registration Guides</a>, <a href="https://www.brandonu.ca/calendar/">Current Academic Calendar</a>, and <a href="https://www.brandonu.ca/registration/files/Arts-Science-Slot-Sheet-revised.pdf">Arts/Science Slot Schedule</a> in order to provide information for this form.</div>
 
 An advisor will respond within 3 business days to the email address you provided on the form. The advisor may require more information or a follow-up appointment before finalizing your schedule. Once the advisor is confident that you understand degree requirements and the course registration process, he or she will lift the hold on your registration.
 
@@ -347,7 +347,7 @@ Proceed to Step 6 once your registration hold has been lifted by an academic adv
 
 Use your BU user ID and password that you claimed in Step 1. If you need help, revisit the [tutorial video on using the online registration system](https://www.youtube.com/watch?v=6AFAlXDHGQ8&feature=youtu.be). 
 
-! Students will not be able to register until an academic advisor has lifted the registration hold. If you are still unable to register, contact your academic advisor from Step 5. 
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle">Students will not be able to register until an academic advisor has lifted the registration hold. If you are still unable to register, contact your academic advisor from Step 5.</div>
 
 Your registration is only complete once you receive a tracking number and a confirmation email to your BU student email. Once you are registered, you can also confirm your registration by logging into the [Student Information Portal](https://webapp.brandonu.ca/pls/student/f?p=101:101). 
 
