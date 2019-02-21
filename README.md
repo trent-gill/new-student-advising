@@ -523,7 +523,7 @@ To make an appointment, choose one of the following options:
 
 ### Step 5: Check Your Email for Further Instructions
 
-If you made an appointment, you will get a confirmation email from Student Services confirming the details of your appointment. Please show up on time and be prepared for your advising appointment. We recommend browsing the [Course Registration Guide](http://brandonu.ca/registration) and [Academic Calendar](http://brandonu.ca/calendar) so you can have an idea of what courses are available and what you might want to take. Please bring your BU ID and password to your appointment so an advisor can walk you through the registration.
+If you made an appointment, you will get a confirmation email from Student Services confirming the details of your appointment. Please show up on time and be prepared for your advising appointment. We recommend browsing the [Course Registration Guide](http://brandonu.ca/registration){:target="_blank"} and [Academic Calendar](http://brandonu.ca/calendar){:target="_blank"} so you can have an idea of what courses are available and what you might want to take. Please bring your BU ID and password to your appointment so an advisor can walk you through the registration.
 
 If you submitted your course information through the self-advising form, an advisor at Brandon University will be in contact with you within 3 business days. 
 
@@ -533,10 +533,10 @@ After your advising appointment, an academic advisor will lift your registration
 
 Students who are advising themselves will be able to use the registration system once an advisor has lifted your hold. An advisor will not lift your hold until you have completed the Self-Advising Form linked above and demonstrated that you understand the course selection process. 
 
-Use your BU user ID and password that you claimed earlier to login to the online registration system. If you need help, revisit the [tutorial video on using the online registration system](https://www.youtube.com/watch?v=6AFAlXDHGQ8&feature=youtu.be). 
+Use your BU user ID and password that you claimed earlier to login to the online registration system. If you need help, revisit the [tutorial video on using the online registration system](https://www.youtube.com/watch?v=6AFAlXDHGQ8&feature=youtu.be){:target="_blank"}. 
 
 {% include warning.html content="Students will not be able to register until an academic advisor has lifted the registration hold. If you are still unable to register, contact your academic advisor from Step 5." %}
 
-Your registration is only complete once you receive a tracking number and a confirmation email to your BU student email. Once you are registered, you can also confirm your registration by logging into the [Student Information Portal](https://webapp.brandonu.ca/pls/student/f?p=101:101). 
+Your registration is only complete once you receive a tracking number and a confirmation email to your BU student email. Once you are registered, you can also confirm your registration by logging into the [Student Information Portal](https://webapp.brandonu.ca/pls/student/f?p=101:101){:target="_blank"}. 
 
-If you are on a waiting list, you will be notified at your [BU email](https://webmail.brandonu.ca/) when a spot is available in the course. 
+If you are on a waiting list, you will be notified at your [BU email](https://webmail.brandonu.ca/){:target="_blank"} when a spot is available in the course. 
