@@ -510,6 +510,7 @@ The information in these videos will teach you the process of choosing courses a
 Please fill out the following form before making an appointment with an advisor.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctx38eqWdrJxQeom1g4jHNhM9zqcERfj3h3KwcV9H0IMQafg/viewform?embedded=true" width="640" height="2166" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ### Step 4: Make an Appointment or Advise Yourself
 
 To make an appointment, choose one of the following options:
