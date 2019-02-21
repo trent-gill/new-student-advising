@@ -227,6 +227,7 @@ Please select one of the above options to proceed. Students can also review the 
 ### Other Degree Programs
 
 If you were admitted into one of the following degree programs, please return to the [Accepted webpage](https://www.brandonu.ca/future-students/accepted/) to access program-specific advising:
+
 * Bachelor of Business Administration
 * Pre-Nursing or Bachelor of Nursing
 * Pre-Psych Nurshing or Bachelor of Science in Psychiatric Nursing
@@ -242,6 +243,7 @@ Please read all of the steps closely before making an appointment with an academ
 {% include note.html content="The process described here is for new students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the Accepted webpage for program-specific advising instructions." %}
 
 #### **1)	[Claim your Brandon University ID](https://webapp.brandonu.ca/pls/claimid/f?p=120:1).**
+
 * After clicking the above link, follow the instructions to claim your Brandon University ID. 
 * Write down your Brandon University ID and password for use in Moodle and the online registration system. If you have already done this, proceed to Step 2.
 
@@ -255,6 +257,7 @@ Please read all of the steps closely before making an appointment with an academ
 {% include warning.html content="After booking an appointment, students must complete the following steps prior to their appointment date. The online Moodle course will give students all the information they need to make best use of their time with an academic advisor." %}
 
 #### **3)	[Login to Moodle](http://moodle.brandonu.ca/) and register for the New Student Advising course using the enrolment key "newbustudent".**
+
 * Go to Moodle at [http://moodle.brandonu.ca/](http://moodle.brandonu.ca/) (Right-click to open this link in a new window or tab.)
 * Login to Moodle using your Brandon University ID and password that you claimed in Step 1. 
 * Click on the “New Student Advising” link under “Main Menu" on the left side of the webpage. 
@@ -264,14 +267,54 @@ Please read all of the steps closely before making an appointment with an academ
 
 #### **3)	Watch all 8 videos in the New Student Advising course in Moodle**: _(Time to completion: 2 hours.)_
 
-* Parts of a Degree
-* Rules of a Degree
-* Academic Performance and Success1
-* Advising Resources
-* Planning Your Academic Year
-* Sample Academic Schedules
-* The Brandon University Homepage
-* How to Use the Online Registration System
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Video Name</th>
+  <th>Video Link</th>
+  </tr>
+    <tbody>
+      <tr>
+      <td>Parts of a Degree</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-InDesign/419419/478883-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Rules of a Degree</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-wireframe-InDesign/419419/478884-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Academic Performance and Success1</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-graphics-InDesign/419419/478885-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Advising Resources</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adjusting-fit-graphics/419419/478886-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Planning Your Academic Year</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-master-pages-InDesign/419419/478887-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Sample Academic Schedules</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-color-swatches-InDesign/419419/478888-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>The Brandon University Homepage</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-text-documents-InDesign/419419/478889-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>How to Use the Online Registration System</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-styles-Indesign/419419/478890-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+    </tbody>
+</thead>
+</table>
 
 {% include tip.html content="These videos provide valuable information that will help you prepare for your advising appointment. Your advisor's job is to support and facilitate the decision-making process, not to make decisions for you." %}
 
@@ -315,16 +358,56 @@ At any time, you may also opt to [make an appointment](/advising-projects/#make-
 
 #### **3)	Watch all 8 videos in the New Student Advising course in Moodle**: _(Time to completion: 2 hours.)_
 
-* Parts of a Degree
-* Rules of a Degree
-* Academic Performance and Success1
-* Advising Resources
-* Planning Your Academic Year
-* Sample Academic Schedules
-* The Brandon University Homepage
-* How to Use the Online Registration System
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Video Name</th>
+  <th>Video Link</th>
+  </tr>
+    <tbody>
+      <tr>
+      <td>Parts of a Degree</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-InDesign/419419/478883-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Rules of a Degree</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-wireframe-InDesign/419419/478884-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Academic Performance and Success1</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-graphics-InDesign/419419/478885-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Advising Resources</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adjusting-fit-graphics/419419/478886-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Planning Your Academic Year</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-master-pages-InDesign/419419/478887-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Sample Academic Schedules</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-color-swatches-InDesign/419419/478888-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>The Brandon University Homepage</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-text-documents-InDesign/419419/478889-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>How to Use the Online Registration System</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-styles-Indesign/419419/478890-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+    </tbody>
+</thead>
+</table>
 
-{% include tip.html content="The information in these videos will teach you the process of choosing courses and using advising resources to plan your academic year." %} 
+{% include tip.html content="The information in these videos will teach you the process of choosing courses and using advising resources to plan your academic year. Please take the time to watch all the videos in order to ensure you understand the advising process." %} 
 
 #### **4)	Complete the Advising Questionnaire in the New Student Advising Moodle course.**
 
