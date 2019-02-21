@@ -515,11 +515,11 @@ Please fill out the following form before making an appointment with an advisor.
 
 To make an appointment, choose one of the following options:
 
-**OPTION 1**: [Book an in-person appointment at Brandon University with an Academic Advisor](https://brandonu-ca-student-services.libcal.com/appointments).
+**OPTION 1**: [Book an in-person appointment at Brandon University with an Academic Advisor](https://brandonu-ca-student-services.libcal.com/appointments){:target="_blank"}.
 
-**OPTION 2**: [Book a phone or chat appointment at Brandon University with an Academic Advisor](https://brandonu-ca-student-services.libcal.com/appointments).
+**OPTION 2**: [Book a phone or chat appointment at Brandon University with an Academic Advisor](https://brandonu-ca-student-services.libcal.com/appointments){:target="_blank"}.
 
-**OPTION 3**: [Advise yourself and check-in with an advisor through email](https://goo.gl/forms/bUM8uE04egpXf9VD3).
+**OPTION 3**: [Advise yourself and check-in with an advisor through email](https://goo.gl/forms/bUM8uE04egpXf9VD3){:target="_blank"}.
 
 ### Step 5: Check Your Email for Further Instructions
 
