@@ -13,7 +13,7 @@ permalink: /
 
 **Work Website:** https://www.brandonu.ca/academic-advising/
 
-This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with in my capacity. Use the left menu to navigate to to different sections.
+This website compiles and showcases some of the advising tools, resources, and projects that I have been involved with at Student Services. Use the left menu to navigate to to different sections.
 
 **Credit:** This GitHub repository is hosted on Github Pages. The template was forked from the [Advanced JS Syllabus](https://github.com/advanced-js/syllabus) by Aidan Feldman. 
 
@@ -23,7 +23,7 @@ The purpose of the academic advising syllabus is to inform students of the learn
 
 I created this resource so advisors can work from a shared understanding of advising in Student Services. It was created in consultation with Alex Braun and Laurie Schewchuk.
 
-! Also available as a [PDF](https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf), if fancy, printable documents are your thing.
+{% include note.html content="Also available as a [PDF](https://www.brandonu.ca/academic-advising/files/BU-Academic-Advising-Syllabus-2018-19.pdf), if fancy, printable documents are your thing." %}
 
 ### Advisors
 
