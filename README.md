@@ -118,8 +118,7 @@ Before an advising appointment, you should:
 * take a look at the current registration guide and the academic calendar
 * jot down courses you think you will need for your degree, and courses that you are interested in
 * consider what other commitments might be involved in your academic day (work, family, etc.)
-* be prepared to discuss course options, address academic problems or concerns, make decisions about the upcoming semester, and explore major/minor options
-arrive on time for your advising appointment.
+* be prepared to discuss course options, address academic problems or concerns, make decisions about the upcoming semester, and explore major/minor options arrive on time for your advising appointment.
 
 ## First Year at a Glance
 
