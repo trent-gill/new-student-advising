@@ -212,13 +212,13 @@ If you are in one of these degree programs, you must choose one of the following
 
 ### Advising Options
 
-#### Option 1: [Make an appointment with an academic advisor in Student Services.](/#make-an-appointment) 
+#### Option 1: [Make an appointment with an academic advisor in Student Services.](/advising-projects/#make-an-appointment) 
 
 * Students have the option of booking an in-person (1 hour), phone (1.5 hours), or online chat (1.5 hours) appointment. 
 * Students meet directly with advisors in order to discuss their academic goals and walk through the process of planning the academic year. 
 * Students must prepare for appointments by watching videos on basic advising information via Moodle.
 
-#### Option 2: [Advise yourself and verify your courses with an academic advisor over email.](/#self-advising-e-mail-check-in-with-an-advisor)
+#### Option 2: [Advise yourself and verify your courses with an academic advisor over email.](/advising-projects/#self-advising-e-mail-check-in-with-an-advisor)
 
 * This option will work for you if you are familiar with the BU General Calendar and Registration Guide and therefore understand your degree requirements, how to determine pre-requisites, and can determine the time slots, terms, and final exam dates for your desired courses.  
 * The New Student Advising video series on Moodle will teach you how to advise yourself. 
@@ -296,11 +296,11 @@ Welcome! Self-advising is for students who have been admitted to Brandon Univers
 
 ! Note: The process described here is for students in the following programs: Bachelor of Arts, Bachelor of Science, Bachelor of Fine Arts, Bachelor of Environmental Science, Bachelor of Arts/Bachelor of Education Integrated, and Bachelor of Physical Education Studies. All other students (eg. Business Administration, Health Studies, and Music) should refer back to the [Accepted webpage](https://www.brandonu.ca/future-students/accepted/) for program-specific advising instructions.
 
-Please be aware that this process is for students who **do not** need support in making decisions regarding their academic program (major, minor, etc.) and courses. Students who need more direct support should [make an appointment](/#make-an-appointment) with an academic advisor.
+Please be aware that this process is for students who **do not** need support in making decisions regarding their academic program (major, minor, etc.) and courses. Students who need more direct support should [make an appointment](/advising-projects/#make-an-appointment) with an academic advisor.
 
 The New Student Advising video series in Moodle will teach you how to advise yourself. Once you have completed the video series, you will be able to submit your courses to be reviewed by an academic advisor. The advisor will lift your registration hold if you have demonstrated that you understand the course selection process. 
 
-At any time, you may also opt to [make an appointment](/#make-an-appointment) with an academic advisor instead. Students who make appointments are also required to complete the New Student Advising video series.
+At any time, you may also opt to [make an appointment](/advising-projects/#make-an-appointment) with an academic advisor instead. Students who make appointments are also required to complete the New Student Advising video series.
 
 #### **1)	[Claim your Brandon University ID](https://webapp.brandonu.ca/pls/claimid/f?p=120:1).**
 * After clicking the above link, follow the instructions to claim your Brandon University ID. 
